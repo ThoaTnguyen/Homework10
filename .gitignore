@@ -1,0 +1,11 @@
+target/
+out/
+*.class
+*.iml
+.idea/workspace.xml
+.idea/shelf/
+.idea/usage.statistics.xml
+.classpath
+.project
+.settings/
+.DS_Store
